@@ -1,0 +1,17 @@
+Today's interview questions
+1.what is service?
+2.who we will pass header data with API call ?
+3.How to hide a div ?
+4.what is diff between == & === ?
+5.Custom validation in Reactive Form ?
+6.Types of directive ?
+7.Diff between ngstyle & ngclass.
+8.How to create a custom pipe ?
+9.How to resize the screen(from css)?
+10.Explain transform property of css?
+11.In a get call if there is script how to handle this situation at front end ?
+12.Meaning of !Doctype in HTML?
+13.Explain CSRF ?
+14.Types of form ?
+15. Command to create a service ?
+16. Why date pipe is removed from Angular 5 ?
