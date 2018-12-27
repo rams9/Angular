@@ -1,0 +1,40 @@
+1. how to share data b/w components
+2. what is entry components
+3. DI injection in angular
+4. route guards in angular
+5. component life cycle in angular 
+6. how to inject service in angular 
+7. what is role of Serivces in angular
+8. diff b/w inject and injectable 
+9. diff b/w ModelChange and ngonChange
+10. diff b/w promise and obserable
+11. advantages of rxjs
+12. what is ngContainer, ngContent
+13. how to communicate b/w two sibilings components
+14. content projection in angualr 
+15. diff b/w viewChild and viewContentChild 
+16. diff b/w jit and aot 
+17. diff b/w angular and react
+18. clouser adv. and disadv. in javascript 
+19. dynamic components in angualr 
+20. memory leakages in angualr & javascript 
+21. angular architecture 
+22. BehaviorSubjet in rxjs 
+23. how to create custom directives in angular 
+24. diff b/w hostlistner and hostbinding in angualr
+25. how to create custom pipes in angualr 
+26. diff b/w reactive forms and modal forms in angualr 
+27. how angular will bootstrap form beggining 
+28. what are the new features in angular4 
+29. how do setup autorization in angualr
+30. lazyloading in angular 
+31. how do check angular app perfomance 
+32. adv. of AOT compiling 
+33. can we use ngFor and ngFor same element 
+34. two way data binding in angular 
+35. how do setup default routing in angular 
+36. how do setup angular project 
+37. how to create component in specific folder 
+38. how to write unit test cases for angular 
+39. what is testbed in angualr
+40. how do mock your service in angular
