@@ -1,0 +1,74 @@
+
+  q 01 .>  What is @Inputs  and @Outputs in angular ?
+  
+  q 02 .> What are differences between Components and Directives?
+
+  q 03 .>  What is primeng ? 
+
+  q 04 .>  How can we achieve Internationalization using Angular 2 ?
+
+  q 05 .>  What is Traceur compiler ?
+
+  q 06 .>  What are differences between hot observables and cold observables ?
+
+  q 07 .>  What is @NgModule and  ECMA Script ? 
+
+  q 08 .>  What is RouterModule.forChild , RouterModule.forRoot and RouterModule.all or router.navigate?
+
+  q 09 .>  What are the advantages of using Angular 2 over Angular JS?
+
+  q 10 .> How do you define transition between two states in angular and How do you define a wildcard state?
+
+  q 11 .> differences between ActivatedRoute and RouterState ?
+
+  q 12 .> Explain the concept of lazy loading in Angular 2 ? and what is Transpiling or interceptor .?
+
+  q 13 .> Tell me about  component lifecycle  and ngForTrackBy directive ?
+
+  q 14 .> How will you convert a string into a percentage?
+  
+  q 15 .> What is .angular-cli.json. Where can I find it ?
+  
+  q 16 .> Difference between  Dynamic vs. Static Typing ?
+
+  q 17 .> What is Lazy Loading and How to enable Lazy Loading and What is AOT Compilation?
+
+  q 18 .> Can you explain about digest cycle in angular js?
+
+  q 19 .>  What directive will you use to hide elements from HTML DOM by removing from the DOM but not affecting their styling?
+
+  q 20 .> How TO use - Media Queries with JavaScript .?
+
+  q 21 .> How to find out if an element is hidden with JavaScript.?
+
+  q 22 .> What is difference between Git vs SVN?
+  
+  q 23 .> How would you make an Angular service return a promise? Write a code snippet as an example .?
+  
+  q 24 .> How does interpolation, e.g. “{{ someModel }}”, actually work?
+
+  q 26 .> How to create custom services or custom  directives and custom  pipes in angular ?
+
+  q 27 .> When Should You Use Json Web Tokens and what is jwt?
+
+  q 30 .> Write The Cli Command To Generate A Component , directive , services and pipes ?
+
+  q 31 .> What Happen When I Import The Same Module Twice In Angular 4?
+
+  q 32 .> In how many ways the Data Binding can be done ?
+
+  q 33 .>  How is SPA (Single Page Application) technology different from the traditional web technology? 
+
+  q 34 .> What's the difference between dirty, touched, and pristine on a form element and  async validation and how is it done?
+  
+  q 35 .> When do you use template driven vs model driven forms? Why?
+
+  q 36 .> Why do we need route guards and  RouterOutlet?
+  
+  q 37 .> What is the difference between an Interface and a Class and ?
+
+  q 38 .> What are pseudo classes and what are they used for?
+  
+  q 39 .> What is “Semantic HTML” ?
+
+  q 40 .> How absolute, relative, fixed and static position differ?
