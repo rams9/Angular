@@ -1,0 +1,60 @@
+This is about 3 compny Selection Interview Questions 
+1.Whay we shoulde use Angular if we have Angular Js?
+2.Why Angular 3.0 not realise? 
+3.What is difference  between Angular and React Js ?
+4.What is store in React Js?
+5.How to Handle the Asyc. Request in Angular? 
+6.When We go for Custom Directive in Angular ?
+7.If we have JS then Why we use TS  for Developing Angular Application ?
+8.Angular provide security? 
+9.Which validation Are more flexible MDF or TDF ? And Y ?
+10.How may ways to make Components Interaction ?
+11.How to Communicate Two different Components without parent child Realation ?
+12.what is ng-content 
+13.How many Storage are available in HTML?  Why we use ? Where we use ?
+14.What is Observable ? 
+15. Differentiate Observable vs Promise ?
+16.What is Callback Hell? How to avoid it .
+17.Why u shoulde use HttpClient ? Which version it introduce?
+18.What happen behinde the seen when we Call subscribe()?
+19.what is diff between HttpClient vs Http?
+20.Angular 1.x vs Angular 2 ?
+21.Angular 2 vs Angular 4?
+22.Angular 4 vs Angular 5?
+23.Angular 5 vs Angular 6?
+24.What is destructuring? 
+25.Life Cycle of Component? 
+26.Component vs Directives ?
+27.how to Design Cusstome pipe?
+28.pipe can modified original data ?
+29.What are the Third party lib available for angular ?
+30.Angular to java Communication possible? 
+31.What is MEAN stack ? Why this is popular in nows days ?
+32.What is Token Based Authentification ?
+33.What is reach UI?
+34.Angular is SEO friendly ? 
+35.How to render Angular in server side?
+36.Design Cusstome Validation for Postal code?
+37.what is diffi. Between Sql and NoSql databases ?
+38.How to manage Server side response in Angular?  
+39.what is viewChildren and when  we should use it?
+40.It is possible to use angular in desktop applications?  
+41.How to uploade images in Angular using Node js?
+42.Why we shoulde use ngOnDestroye ()?
+43.What is FirstLife Cycle hook of Angular ?
+44.what is DI ? Why we shoulde use ?
+45.Ts follows the OOPS concept  the why we shoulde not create the object to Class ??
+Explain what is the seen behinde it ?
+46.Directory Structure of Angular application ?
+47.what is main.ts file ?
+48.what is package.json file ? If we delete package.json file what is happening? 
+49.What is SPA ?
+50.What is lazy loading?  
+51.When we go for Lazy loading ? 
+52.how to create Custom Module?
+53.how may structural Directives you know? 
+54.how to manipulate dom in Angular?  Can angular has capability to manipulate DOM?
+55.What is CLI ? 
+56.which directive you use to create the multiple rows whitin single step ? (Array is 10000 employees I want only emaname whit Indexing )
+57. What is JSON ?
+And other Questions Are about my projects were you use angular ?

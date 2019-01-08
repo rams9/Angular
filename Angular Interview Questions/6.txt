@@ -1,0 +1,15 @@
+1. what is Angular?
+2.what is diffrent between java and javascript?
+3.what is observable and promise?
+4.what is the diffrence between observable and promise ?explain with example
+5.what is series call?
+6.what is router?
+7.how many ways we can navigate from one page to another page?
+8.what is routeState?
+9.what is component ?
+10.how many ways to communicate components?
+11.What is EventEmitter class ?explain with  example
+12.what is javascript?
+13.what is prototype in javascript?
+14.what is hosting in javascript?
+15.what is the diffrence between <a href> and <a [routerLink]>?
