@@ -7,3 +7,6 @@ ngOnDestroy: this lifecycle hook is executed just before the component is destro
 
 difference between constructer and NgOninit is when we are passing input to component constructer can't get the value of input
 @input in child component if tried to access in constructer it is undefined.
+
+
+ngOnChanges : This lifecycle hook is executed whenever the components @input properties change. and when component construction time before ngOnInit it will trigger.
